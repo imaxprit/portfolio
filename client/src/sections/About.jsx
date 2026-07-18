@@ -2,7 +2,7 @@
 
 function About() {
   return (
-    <section id="about" className="scroll-mt-28 py-20">
+    <section id="about" className="scroll-mt-28 py-14">
       <div className="max-w-7xl mx-auto px-6">
 
         <div className="text-center text-4xl md:text-5xl lg:text-6xl mb-10">

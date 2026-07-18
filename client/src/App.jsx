@@ -14,6 +14,7 @@ function App() {
       <NavBar />
       <Hero />
       <About />
+      <Skills />
     </>
   );
 }
